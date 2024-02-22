@@ -16,6 +16,8 @@ public class Ej1Entorn {
     public static void main(String[] args) {
         System.out.println("Soy Pablo");
         System.out.println("Soy pablo de nuevo");
+        System.out.println("soy andres");
+        System.out.println("soy andres (2)");
     }
     
 }
